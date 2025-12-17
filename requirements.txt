@@ -1,7 +1,0 @@
-tidyverse
-caret
-mlr3
-xgboost
-ggsoccer
-renv
-rmarkdown
